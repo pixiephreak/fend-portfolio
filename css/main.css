@@ -33,3 +33,17 @@ img {
 #flourish {
 	display: none;
 }
+
+footer i {
+	padding: 1.5em;
+
+}
+
+ul {
+	list-style-type: none;
+
+}
+
+li{
+	display: inline;
+}
