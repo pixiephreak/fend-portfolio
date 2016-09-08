@@ -17,6 +17,7 @@ body {
 }
 
 article {
+	width: 45em;
 
 }
 
@@ -25,5 +26,10 @@ h1 {
 }
 
 img {
+	max-width: 100%;
 
+}
+
+#flourish {
+	display: none;
 }

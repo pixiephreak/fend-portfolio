@@ -17,7 +17,7 @@ module.exports = function(grunt) {
             
             
             width: 800 ,
-            suffix: 'screen_width',
+          
             quality: 85
             
           }]
